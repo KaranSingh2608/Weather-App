@@ -34,5 +34,5 @@ https://github.com/rachitsharma300/Weather-Web-App/assets/50745070/204eeaac-103e
 ## Setup and Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/rachitsharma300/Weather-Web-App.git
+   git clone https://github.com/KaranSingh2608/Weather-App.git
 
