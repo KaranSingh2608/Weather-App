@@ -29,10 +29,7 @@ https://github.com/rachitsharma300/Weather-Web-App/assets/50745070/204eeaac-103e
 - **JavaScript**: Adding interactivity.
 - **OpenWeather API**: Fetching weather data.
 - **Font Awesome**: Icons for better visual representation.
-## Screenshorts
-  ![Main page](https://github.com/rachitsharma300/Weather-Web-App/assets/50745070/35b32e03-1483-43b1-8889-d7a64d08db66)
 
-  (![Update Page](https://github.com/rachitsharma300/Weather-Web-App/assets/50745070/e7986605-ec8b-4858-ab00-2e6e8680e5c2)
 
 ## Setup and Installation
 1. **Clone the repository:**
